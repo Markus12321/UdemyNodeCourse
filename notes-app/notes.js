@@ -1,7 +1,7 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-
+//SER DU DETTE
 const readNote = (title) => {
     const notes = loadNotes()
 
